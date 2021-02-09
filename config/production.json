@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://karmanya100:Karmanya12345@cluster0.swbtv.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":
+    "mysecrettoken",
+   "githubClientId":"4500832ac6b51katy",
+    "githubSecret": "97f426263637288191929"
+}
